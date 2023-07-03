@@ -7,6 +7,19 @@ custom_domains = {
         "arvancdn.com",
         "arvancdn.ir",
         "arvancloud.ir",
+        "imerfan.ir",
+        "petiak.ir",
+        "
+        "
+        "theperfectsite.ir",
+        "htmhell.ir",
+        "nojquery.ir",
+        "
+        "
+        "
+        "
+        "
+        "developix.ir"
         "blubank.com",
         "cedarmaps.com",
         "digikalacloud.com",
