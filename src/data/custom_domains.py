@@ -15,14 +15,14 @@ custom_domains = {
         "htmhell.ir",
         "nojquery.ir",
         "dontasktoask.ir",
-        "
+        "namayeshtv.ir"و
         "salamattv.ir",
-        "
+        "omidtv.ir",
         "radiotalavat.ir",
         "filito.ir",
         "radiosaba.ir",
         "ronio.ir",
-        "
+        "tv1.ir",
         "thebestlanguage.ir",
         "varzeshtv.ir",
         "radiogoftogoo.ir",
@@ -31,6 +31,12 @@ custom_domains = {
         "doctv.ir",
         "smusher.ir",
         "developix.ir",
+        "
+        "
+        "navaphone.ir",
+        "
+        "
+        "tv4.ir",
         "blubank.com",
         "cedarmaps.com",
         "digikalacloud.com",
