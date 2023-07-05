@@ -9,17 +9,28 @@ custom_domains = {
         "arvancloud.ir",
         "imerfan.ir",
         "petiak.ir",
-        "
-        "
+        "sepehrtv.ir",
+        "mathhome.ir",
         "theperfectsite.ir",
         "htmhell.ir",
         "nojquery.ir",
+        "dontasktoask.ir",
         "
+        "salamattv.ir",
         "
+        "radiotalavat.ir",
+        "filito.ir",
+        "radiosaba.ir",
+        "ronio.ir",
         "
-        "
-        "
-        "developix.ir"
+        "thebestlanguage.ir",
+        "varzeshtv.ir",
+        "radiogoftogoo.ir",
+        "tamashatv.ir",
+        "ofoghtv.ir",
+        "doctv.ir",
+        "smusher.ir",
+        "developix.ir",
         "blubank.com",
         "cedarmaps.com",
         "digikalacloud.com",
