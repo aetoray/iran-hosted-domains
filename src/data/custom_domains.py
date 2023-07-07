@@ -33,12 +33,20 @@ custom_domains = {
         "developix.ir",
         "
         "
+        "exnovin.io",
+        "rokhpodcast.ir",
+        "iranapp.me",
+        "nic.ir",
         "ino.school",
         "shahrsakhtafzar.com",
         "toranji.ir",
         "navaphone.ir",
         "seof.ir",
-        "
+        "itiran.com",
+        "taniresco.com",
+        "anzalweb.ir",
+        "techrato.com",
+        "sarmayegozarebartar.com",
         "
         "
         "faradeed.ir",
