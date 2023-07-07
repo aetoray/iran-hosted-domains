@@ -32,8 +32,14 @@ custom_domains = {
         "smusher.ir",
         "developix.ir",
         "
+        "
+        "
+        "shahrsakhtafzar.com",
         "toranji.ir",
         "navaphone.ir",
+        "seof.ir",
+        "
+        "
         "
         "faradeed.ir",
         "tv4.ir",
