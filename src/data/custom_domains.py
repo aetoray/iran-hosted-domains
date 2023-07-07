@@ -33,7 +33,7 @@ custom_domains = {
         "developix.ir",
         "
         "
-        "
+        "ino.school",
         "shahrsakhtafzar.com",
         "toranji.ir",
         "navaphone.ir",
