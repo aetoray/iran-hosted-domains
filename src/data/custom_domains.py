@@ -32,7 +32,7 @@ custom_domains = {
         "smusher.ir",
         "developix.ir",
         "
-        "
+        "parchlinux.ir",
         "exnovin.io",
         "rokhpodcast.ir",
         "iranapp.me",
