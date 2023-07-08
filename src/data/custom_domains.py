@@ -15,7 +15,7 @@ custom_domains = {
         "htmhell.ir",
         "nojquery.ir",
         "dontasktoask.ir",
-        "namayeshtv.ir"و
+        "namayeshtv.ir",
         "salamattv.ir",
         "omidtv.ir",
         "radiotalavat.ir",
@@ -31,7 +31,7 @@ custom_domains = {
         "doctv.ir",
         "smusher.ir",
         "developix.ir",
-        "
+        "beytoote.com",
         "parchlinux.ir",
         "exnovin.io",
         "rokhpodcast.ir",
@@ -47,6 +47,10 @@ custom_domains = {
         "anzalweb.ir",
         "techrato.com",
         "sarmayegozarebartar.com",
+        "it-planet.ir",
+        "clinichard.com,
+        "
+        "
         "
         "
         "faradeed.ir",
