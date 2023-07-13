@@ -48,11 +48,24 @@ custom_domains = {
         "techrato.com",
         "sarmayegozarebartar.com",
         "it-planet.ir",
-        "clinichard.com,
+        "clinichard.com",
+        "hamrahcard.ir",
+        "aaniro.ir",
+        "samanehha.com",
+        "pishkhan24.com",
+        "voidpixel.ir"و
+        "xcraft.ir",
+        "mctracker.ir",
+        "play.peakcraft.ir",
         "
-        "
-        "
-        "
+        "hostiran.ir",
+        "iranminecraft.com",
+        "fancycraft.cc",
+        "play.illumazda.top",
+        "play.lioncraft.ir",
+        "coldgame.ir",
+        "khelafi.ir",
+        "sc98.ir",
         "faradeed.ir",
         "tv4.ir",
         "blubank.com",
