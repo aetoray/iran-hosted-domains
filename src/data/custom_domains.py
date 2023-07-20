@@ -23,7 +23,7 @@ custom_domains = {
         "radiosaba.ir",
         "ronio.ir",
         "tv1.ir",
-        "thebestlanguage.ir",
+        " ",
         "varzeshtv.ir",
         "radiogoftogoo.ir",
         "tamashatv.ir",
