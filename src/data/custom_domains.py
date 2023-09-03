@@ -57,7 +57,7 @@ custom_domains = {
         "xcraft.ir",
         "mctracker.ir",
         "play.peakcraft.ir",
-        "
+        "azadresan.ir",
         "hostiran.ir",
         "iranminecraft.com",
         "fancycraft.cc",
