@@ -29,6 +29,7 @@ custom_domains = {
         " ",
         " ",
         " ",
+        "noban.ir",
         "varzeshtv.ir",
         "radiogoftogoo.ir",
         "tamashatv.ir",
