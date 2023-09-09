@@ -29,6 +29,7 @@ custom_domains = {
         "xcraft.ir",
         "fancycraft.cc",
         "gunmax.org",
+        "eogcraft.ir",
         "play.peakcraft.ir",
         "play.lioncraft.ir",
         "paradise-city.fun",
