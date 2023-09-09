@@ -31,6 +31,7 @@ custom_domains = {
         "gunmax.org",
         "play.peakcraft.ir",
         "play.lioncraft.ir",
+        "paradise-city.fun",
         "coldgame.ir",
         "noban.ir",
         "varzeshtv.ir",
