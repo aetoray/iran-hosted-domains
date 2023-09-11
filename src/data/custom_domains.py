@@ -32,6 +32,7 @@ custom_domains = {
         "eogcraft.ir",
         "play.peakcraft.ir",
         "play.lioncraft.ir",
+        "mabna.school",
         "paradise-city.fun",
         "coldgame.ir",
         "noban.ir",
