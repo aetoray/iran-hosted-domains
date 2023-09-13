@@ -24,6 +24,7 @@ custom_domains = {
         "ronio.ir",
         "tv1.ir",
         "madgames.ir",
+        "rayshop.net",
         "voidpixel.ir",
         "nobanmc.ir",
         "xcraft.ir",
