@@ -43,7 +43,7 @@ custom_domains = {
         "ofoghtv.ir",
         "doctv.ir",
         " ",
-        " ",
+        "gembo.ir",
         "beytoote.com",
         "exnovin.io",
         "rokhpodcast.ir",
