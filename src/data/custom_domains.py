@@ -7,7 +7,7 @@ custom_domains = {
         "arvancdn.com",
         "arvancdn.ir",
         "arvancloud.ir",
-        " ",
+        "pgsoc.ir",
         "petiak.ir",
         "sepehrtv.ir",
         "mathhome.ir",
