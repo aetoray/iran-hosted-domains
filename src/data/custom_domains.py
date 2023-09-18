@@ -12,6 +12,7 @@ custom_domains = {
         "sepehrtv.ir",
         "mathhome.ir",
         "srpt.ir",
+        "benyaminco.com",
         "bmiic.ir",
         "tdday.ir",
         "fsday.ir",
