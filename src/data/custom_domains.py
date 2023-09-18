@@ -42,7 +42,7 @@ custom_domains = {
         "tamashatv.ir",
         "ofoghtv.ir",
         "doctv.ir",
-        " ",
+        "karafarinbank.com",
         "gembo.ir",
         "beytoote.com",
         "exnovin.io",
